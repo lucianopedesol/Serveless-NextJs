@@ -1,4 +1,12 @@
+<br>
+<div align="center">
+  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/img.png" />
 
+  <h4 align="center">
+    Development of an application using Vercel's Serverless Functions to save a user's data in MongoDB using ReactJS and Next.js.
+      Access the tutorial <a href="https://www.youtube.com/watch?v=Cz55Jmhfw84">here</a>
+  </h4>
+</div>
 ---
 
 ## 🚀 Getting started
