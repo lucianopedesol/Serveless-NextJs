@@ -26,13 +26,18 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/lucianopedesol/Serveless-NextJs.git
 
 # Access the repository
-$ cd youtube-nextjs-design-system
+$ cd Serveless-NextJs
 
 # Install the dependencies
 $ yarn install
+$ yarn add @vercel/node
+$ yarn add axios
+$ yarn add mongodb
+$ yarn add @types/mongodb -D
+
 
 # Run application
 $ yarn dev
