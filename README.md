@@ -1,6 +1,6 @@
 <br>
-<div align="justify">
-  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/img.png" />
+<div align="center">
+  <img width="600" alt="NextJS-ChakraUI" src="./.github/assets/img.png" />
 
   <h4 align="left">
     Development of an application using Vercel's Serverless Functions to save a user's data in MongoDB using ReactJS and Next.js.
