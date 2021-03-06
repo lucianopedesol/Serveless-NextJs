@@ -1,5 +1,5 @@
 <br>
-<div align="center">
+<div align="justify">
   <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/img.png" />
 
   <h4 align="left">
